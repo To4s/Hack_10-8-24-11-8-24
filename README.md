@@ -8,5 +8,4 @@ The concept behind our website is to provide a platform for users in distress to
 - News update
 - ML model to filter out only disaster related news
 - Display what are the Do’s and Don'ts in response to an occurrence of a disaster
-- Chatbot which will redirect to relevant authorities
 - Map showing possible help closest to the person
